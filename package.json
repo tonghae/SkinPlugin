@@ -1,0 +1,22 @@
+{
+  "name": "skin-plugin",
+  "version": "1.0.0",
+  "description": "Build-time skin selector",
+  "main": "dist/bundle.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonghae/SkinPlugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "skin",
+    "style",
+    "theme"
+  ],
+  "author": "Sergey Pelevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonghae/SkinPlugin/issues"
+  },
+  "homepage": "https://github.com/tonghae/SkinPlugin#readme"
+}
